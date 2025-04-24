@@ -1,0 +1,19 @@
+# Exclude virtual environments
+env/
+venv/
+
+# Exclude Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Exclude checkpoints
+checkpoints/
+*.checkpoint
+.ipynb_checkpoints/
+
+# Exclude other common files
+.DS_Store
+*.log
+*.tmp
+
